@@ -20,7 +20,9 @@ public class TestMain {
 		System.out.println("어렵지않아요!!");
 		System.out.println("어렵지않아요!!");
 		System.out.println("어렵지않아요!!3");
+		System.out.println("어렵지않아요!!4");
 		System.out.println("어렵지않아요!!5");
+		System.out.println("어렵지않아요!!6");
 	}
 
 }
