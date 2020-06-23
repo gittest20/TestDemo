@@ -15,6 +15,7 @@ public class TestMain {
 		System.out.println("커밋 연습2");
 		
 		System.out.println("어려워요 ");
+		System.out.println("어려워요 @");
 	}
 
 }
