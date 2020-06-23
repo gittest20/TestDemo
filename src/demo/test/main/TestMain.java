@@ -19,6 +19,7 @@ public class TestMain {
 		System.out.println("어려워요 @!!");
 		System.out.println("어렵지않아요!!");
 		System.out.println("어렵지않아요!!");
+		System.out.println("어렵지않아요!!3");
 	}
 
 }
