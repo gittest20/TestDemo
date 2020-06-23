@@ -11,7 +11,7 @@ public class TestMain {
 		System.out.println(data.getHello());
 		
 		System.out.println("I don't konw");
-		System.out.println("Hello World!!!");
+		System.out.println("It's difficult for me to use git...........");
 
 	}
 
