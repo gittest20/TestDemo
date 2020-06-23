@@ -11,6 +11,7 @@ public class TestMain {
 		System.out.println(data.getHello());
 		
 		System.out.println("충돌나서 되돌렸어요 ㅜㅜ");
+		System.out.println("커밋 연습");
 	}
 
 }
