@@ -10,19 +10,8 @@ public class TestMain {
 		HelloWorld data = new HelloWorld();
 		System.out.println(data.getHello());
 		
-		System.out.println("�浹���� �ǵ��Ⱦ�� �̤�");
-		System.out.println("Ŀ�� ����");
-		System.out.println("Ŀ�� ����2");
-		
-		System.out.println("������� ");
-		System.out.println("������� @");
-		System.out.println("������� @!!");
-		System.out.println("������ʾƿ�!!");
-		System.out.println("������ʾƿ�!!");
-		System.out.println("������ʾƿ�!!3");
-		System.out.println("������ʾƿ�!!4");
-		System.out.println("������ʾƿ�!!5");
-		System.out.println("������ʾƿ�!!6");
+		System.out.println("I don't konw");
+
 	}
 
 }
