@@ -22,6 +22,7 @@ public class TestMain {
 		System.out.println("������ʾƿ�!!3");
 		System.out.println("������ʾƿ�!!4");
 		System.out.println("������ʾƿ�!!5");
+		System.out.println("������ʾƿ�!!6");
 	}
 
 }
