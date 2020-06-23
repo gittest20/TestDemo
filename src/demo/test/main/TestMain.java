@@ -5,22 +5,23 @@ public class TestMain {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		System.out.println("test1");
-		System.out.println("test2"); //ºê·£Ä¡ Å×½ºÆ®¿ë! °Çµå¸®Áö ¸»°Í!
+		System.out.println("test2"); //ï¿½ê·£Ä¡ ï¿½×½ï¿½Æ®ï¿½ï¿½! ï¿½Çµå¸®ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½!
 		
 		HelloWorld data = new HelloWorld();
 		System.out.println(data.getHello());
 		
-		System.out.println("Ãæµ¹³ª¼­ µÇµ¹·È¾î¿ä ¤Ì¤Ì");
-		System.out.println("Ä¿¹Ô ¿¬½À");
-		System.out.println("Ä¿¹Ô ¿¬½À2");
+		System.out.println("ï¿½æµ¹ï¿½ï¿½ï¿½ï¿½ ï¿½Çµï¿½ï¿½È¾ï¿½ï¿½ ï¿½Ì¤ï¿½");
+		System.out.println("Ä¿ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½");
+		System.out.println("Ä¿ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½2");
 		
-		System.out.println("¾î·Á¿ö¿ä ");
-		System.out.println("¾î·Á¿ö¿ä @");
-		System.out.println("¾î·Á¿ö¿ä @!!");
-		System.out.println("¾î·ÆÁö¾Ê¾Æ¿ä!!");
-		System.out.println("¾î·ÆÁö¾Ê¾Æ¿ä!!");
-		System.out.println("¾î·ÆÁö¾Ê¾Æ¿ä!!3");
-		System.out.println("¾î·ÆÁö¾Ê¾Æ¿ä!!4");
+		System.out.println("ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ");
+		System.out.println("ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ @");
+		System.out.println("ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ @!!");
+		System.out.println("ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ê¾Æ¿ï¿½!!");
+		System.out.println("ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ê¾Æ¿ï¿½!!");
+		System.out.println("ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ê¾Æ¿ï¿½!!3");
+		System.out.println("ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ê¾Æ¿ï¿½!!4");
+		System.out.println("ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ê¾Æ¿ï¿½!!5");
 	}
 
 }
