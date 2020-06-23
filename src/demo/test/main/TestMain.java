@@ -9,6 +9,8 @@ public class TestMain {
 		
 		HelloWorld data = new HelloWorld();
 		System.out.println(data.getHello());
+		
+		System.out.println("충돌나서 되돌렸어요 ㅜㅜ");
 	}
 
 }
