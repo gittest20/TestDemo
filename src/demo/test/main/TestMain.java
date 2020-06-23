@@ -12,6 +12,9 @@ public class TestMain {
 		
 		System.out.println("충돌나서 되돌렸어요 ㅜㅜ");
 		System.out.println("커밋 연습");
+		System.out.println("커밋 연습2");
+		
+		System.out.println("어려워요 ");
 	}
 
 }
